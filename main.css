@@ -66,8 +66,8 @@ top:100px;
  
  .pod-css1 {
 position: relative;
-left:-470px;
-top:160px;
+left:460px;
+top:100px;
 
 transition: 0.5s;
  }
@@ -79,8 +79,8 @@ transform: scale(1.03);
  
   .pod-css2 {
 position: relative;
-left:-440px;
-top:160px;
+left:480px;
+top:100px;
 
 transition: 0.5s;
  }
@@ -92,8 +92,8 @@ transform: scale(1.03);
  
    .pod-css3 {
 position: relative;
-left:-410px;
-top:160px;
+left:500px;
+top:100px;
 
 transition: 0.5s;
  }
